@@ -1,2 +1,3 @@
 This is my first git file£¡
+First time using git, excited! update...
 hello world£¡
